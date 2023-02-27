@@ -1,2 +1,3 @@
-# collocation-analysis
-Collocation analysis of Adele's song lyrics to compare Adele's early albums (19 and 21) to later albums (25 and 30)
+# Collocation analysis of Adele
+
+This repository contains R code for collocation analysis of Adele's song lyrics. Adele's earlier albums (19 and 21) are compared to her later albums (25 and 30) to see how Adele's expression of love has evolved.
