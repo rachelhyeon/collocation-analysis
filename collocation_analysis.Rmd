@@ -2,8 +2,7 @@
 title: "Collocation analysis of Adele's songs"
 author: "Myung Kyung (Rachel) Hyeon"
 date: "2022-09-24"
-output:
-  pdf_document: default
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
