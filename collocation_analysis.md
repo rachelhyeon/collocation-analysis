@@ -42,6 +42,10 @@ album *25*, album 4 refers to Adele’s fourth studio album *30*. We can
 see from Table 1 that there are approximately 3000 to 4000 tokens in
 each of her albums, with 11 to 12 songs in each album.
 
+<center>
+    
+Table 1: Corpus Composition of Adele’s Four Studio Albums
+
 | Album | Texts | Tokens |
 |:------|------:|-------:|
 | 1     |    12 |   3144 |
@@ -49,8 +53,8 @@ each of her albums, with 11 to 12 songs in each album.
 | 3     |    11 |   3640 |
 | 4     |    12 |   4005 |
 | Total |    46 |  14420 |
-
-Corpus Composition of Adele’s Four Studio Albums
+    
+ </center>
 
 The data was gathered by manually copying Adele’s lyrics found on Google
 for every song into a separate text file, and organizing the text files
@@ -114,6 +118,11 @@ second frequent item in Adele’s corpus of lyrics (AF = 569, RF = 0.039
 per word). The noun and verb *love* is the fifteenth most frequent item
 in Adele’s corpus of lyrics (AF = 157, RF = 0.011 per word).
 
+<center>
+
+Table 2: Absolute and relative frequency of top 20 most frequent words in Adele’s
+lyric corpus
+
 | Token  | Frequency | Relative Frequency |
 |:-------|----------:|-------------------:|
 | i      |       749 |              0.052 |
@@ -147,8 +156,7 @@ in Adele’s corpus of lyrics (AF = 157, RF = 0.011 per word).
 | you’re |        88 |              0.006 |
 | ain’t  |        87 |              0.006 |
 
-Absolute and relative frequency of top 20 most frequent words in Adele’s
-lyric corpus
+</center>
 
 Looking at Juilland’s D measure in Table 3, we see that all of the three
 tokens have values close to 1, which signifies that we have evenly
@@ -159,13 +167,17 @@ is the most unevenly distributed with the lowest Juilland’s D value and
 the highest DP value, and *i* is the most evenly dispersed with the
 highest Juilland’s D value and the lowest DP value.
 
+<center>
+
+Table 3: Dispersion Measures for i, you and love
+
 | Token |  AF | Per_10.4 | Carrolls_D2 | Rosengrens_S |  Lynes_D3 |        DC | Juillands_D |        DP |   DP_norm |
 |:------|----:|---------:|------------:|-------------:|----------:|----------:|------------:|----------:|----------:|
 | i     | 749 | 519.4175 |   0.9540649 |    0.9195357 | 0.9137127 | 0.9087672 |   0.9212488 | 0.2225919 | 0.2243971 |
 | you   | 569 | 394.5908 |   0.9318796 |    0.8564299 | 0.8855290 | 0.8432097 |   0.8919461 | 0.2702648 | 0.2724565 |
 | love  | 157 | 108.8766 |   0.8314623 |    0.6044490 | 0.6952716 | 0.5855981 |   0.7982397 | 0.4489744 | 0.4526154 |
 
-Dispersion Measures for i, you and love
+</center>
 
 We find collocates of *love*, which can be both noun and a verb in the
 Adele’s two subcorpora using the MI statistic (3b-MI1(4), L5-R5, C4-NC4,
