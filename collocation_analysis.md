@@ -207,6 +207,8 @@ are some of the most strongly related collocates with *you* in the first
 subcorpus. The tokens *home*, *fool*, and *patient* are some of the most
 strongly related collocates with *you* in the second subcorpus.
 
+<div align="center">
+
 ![Collocation network of love for two subcorpora (3b-MI1(4), L5-R5,
 C4-NC4, no filter
 applied)](collocation_analysis_files/figure-gfm/unnamed-chunk-13-1.png)
@@ -214,6 +216,8 @@ applied)](collocation_analysis_files/figure-gfm/unnamed-chunk-13-1.png)
 ![Collocation network of you for two subcorpora (3b-MI1(4), L5-R5,
 C4-NC4, no filter
 applied)](collocation_analysis_files/figure-gfm/unnamed-chunk-14-1.png)
+
+</div>
 
 Finally, we calculate the log-likelihood and log ratio between Adele’s
 first set of albums *19* and *21*, and the second set of albums *25* and
@@ -235,6 +239,8 @@ ratio is 0.27 for *love* and 0.53 for *you*. This means that *you*, our
 statistically significant word, occurs between 1 to 2 times more
 frequently in the target corpus (first two albums) than the reference
 corpus (last two albums).
+
+<div align="center">
 
 <table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
 <caption>
@@ -762,6 +768,8 @@ love
 </tbody>
 </table>
 
+<div align="center">
+    
 ## 5. Discussion
 
 The collocation networks show that there are some shared and distinct
