@@ -768,7 +768,7 @@ love
 </tbody>
 </table>
 
-<div align="center">
+</div>
     
 ## 5. Discussion
 
