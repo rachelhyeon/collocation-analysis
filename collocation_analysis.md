@@ -242,531 +242,66 @@ corpus (last two albums).
 
 <div align="center">
 
-<table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
-<caption>
 **Table 4:** A keyness comparison between Adele’s last two albums (target corpus) and
 first two albums (reference corpus)
-</caption>
-<thead>
-<tr>
-<th style="text-align:left;">
-Token
-</th>
-<th style="text-align:right;">
-LL
-</th>
-<th style="text-align:right;">
-LR
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-let
-</td>
-<td style="text-align:right;">
-65.16
-</td>
-<td style="text-align:right;">
-2.69
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-river
-</td>
-<td style="text-align:right;">
-46.96
-</td>
-<td style="text-align:right;">
-6.04
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-lea
-</td>
-<td style="text-align:right;">
-41.88
-</td>
-<td style="text-align:right;">
-5.87
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-lord
-</td>
-<td style="text-align:right;">
-31.73
-</td>
-<td style="text-align:right;">
-5.47
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-miss
-</td>
-<td style="text-align:right;">
-27.92
-</td>
-<td style="text-align:right;">
-5.29
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-lights
-</td>
-<td style="text-align:right;">
-25.38
-</td>
-<td style="text-align:right;">
-5.15
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-hold
-</td>
-<td style="text-align:right;">
-23.60
-</td>
-<td style="text-align:right;">
-2.12
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cruel
-</td>
-<td style="text-align:right;">
-22.84
-</td>
-<td style="text-align:right;">
-5.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-lows
-</td>
-<td style="text-align:right;">
-20.31
-</td>
-<td style="text-align:right;">
-4.83
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-pain
-</td>
-<td style="text-align:right;">
-20.31
-</td>
-<td style="text-align:right;">
-4.83
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-want
-</td>
-<td style="text-align:right;">
-17.81
-</td>
-<td style="text-align:right;">
-2.07
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-mmh
-</td>
-<td style="text-align:right;">
-17.77
-</td>
-<td style="text-align:right;">
-4.63
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-sweetest
-</td>
-<td style="text-align:right;">
-17.77
-</td>
-<td style="text-align:right;">
-4.63
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-like
-</td>
-<td style="text-align:right;">
-16.87
-</td>
-<td style="text-align:right;">
-1.11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-down
-</td>
-<td style="text-align:right;">
-16.57
-</td>
-<td style="text-align:right;">
-1.68
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-live
-</td>
-<td style="text-align:right;">
-16.50
-</td>
-<td style="text-align:right;">
-4.53
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-water
-</td>
-<td style="text-align:right;">
-16.50
-</td>
-<td style="text-align:right;">
-4.53
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-both
-</td>
-<td style="text-align:right;">
-15.36
-</td>
-<td style="text-align:right;">
-3.91
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-fooling
-</td>
-<td style="text-align:right;">
-15.23
-</td>
-<td style="text-align:right;">
-4.41
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-highs
-</td>
-<td style="text-align:right;">
-15.23
-</td>
-<td style="text-align:right;">
-4.41
-</td>
-</tr>
-</tbody>
-</table>
-<table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
-<caption>
+
+| **Token** | **LL** | **LR** |
+|:---------:|:------:|:------:|
+|    let    | 65.16  |  2.69  |
+|   river   | 46.96  |  6.04  |
+|    lea    | 41.88  |  5.87  |
+|   lord    | 31.73  |  5.47  |
+|   miss    | 27.92  |  5.29  |
+|  lights   | 25.38  |  5.15  |
+|   hold    | 23.60  |  2.12  |
+|   cruel   | 22.84  |  5.00  |
+|   lows    | 20.31  |  4.83  |
+|   pain    | 20.31  |  4.83  |
+|   want    | 17.81  |  2.07  |
+|    mmh    | 17.77  |  4.63  |
+| sweetest  | 17.77  |  4.63  |
+|   like    | 16.87  |  1.11  |
+|   down    | 16.57  |  1.68  |
+|   live    | 16.50  |  4.53  |
+|   water   | 16.50  |  4.53  |
+|   both    | 15.36  |  3.91  |
+|  fooling  | 15.23  |  4.41  |
+|   highs   | 15.23  |  4.41  |
+
+
 **Table 5:** A keyness comparison between Adele’s first two albums (target corpus)
 and last two albums (reference corpus)
-</caption>
-<thead>
-<tr>
-<th style="text-align:left;">
-Token
-</th>
-<th style="text-align:right;">
-LL
-</th>
-<th style="text-align:right;">
-LR
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-rumor
-</td>
-<td style="text-align:right;">
-92.16
-</td>
-<td style="text-align:right;">
-7.11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-has
-</td>
-<td style="text-align:right;">
-37.04
-</td>
-<td style="text-align:right;">
-3.76
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-up
-</td>
-<td style="text-align:right;">
-27.92
-</td>
-<td style="text-align:right;">
-1.92
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-should
-</td>
-<td style="text-align:right;">
-27.41
-</td>
-<td style="text-align:right;">
-3.87
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-rolling
-</td>
-<td style="text-align:right;">
-25.68
-</td>
-<td style="text-align:right;">
-5.26
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-he
-</td>
-<td style="text-align:right;">
-24.86
-</td>
-<td style="text-align:right;">
-4.57
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-whenever
-</td>
-<td style="text-align:right;">
-24.17
-</td>
-<td style="text-align:right;">
-5.17
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-and
-</td>
-<td style="text-align:right;">
-23.03
-</td>
-<td style="text-align:right;">
-0.88
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-met
-</td>
-<td style="text-align:right;">
-22.66
-</td>
-<td style="text-align:right;">
-5.08
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-words
-</td>
-<td style="text-align:right;">
-21.15
-</td>
-<td style="text-align:right;">
-4.98
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-ay
-</td>
-<td style="text-align:right;">
-19.64
-</td>
-<td style="text-align:right;">
-4.87
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-forgive
-</td>
-<td style="text-align:right;">
-19.64
-</td>
-<td style="text-align:right;">
-4.87
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-as
-</td>
-<td style="text-align:right;">
-19.58
-</td>
-<td style="text-align:right;">
-2.82
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-you
-</td>
-<td style="text-align:right;">
-18.80
-</td>
-<td style="text-align:right;">
-0.53
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-take
-</td>
-<td style="text-align:right;">
-18.23
-</td>
-<td style="text-align:right;">
-2.55
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-had
-</td>
-<td style="text-align:right;">
-18.18
-</td>
-<td style="text-align:right;">
-1.92
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-head
-</td>
-<td style="text-align:right;">
-18.13
-</td>
-<td style="text-align:right;">
-4.76
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-enough
-</td>
-<td style="text-align:right;">
-17.83
-</td>
-<td style="text-align:right;">
-4.17
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-nothing
-</td>
-<td style="text-align:right;">
-17.17
-</td>
-<td style="text-align:right;">
-2.70
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-wish
-</td>
-<td style="text-align:right;">
-17.17
-</td>
-<td style="text-align:right;">
-2.70
-</td>
-</tr>
-</tbody>
-</table>
-<table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
-<caption>
+
+| **Token** | **LL** | **LR** |
+|:---------:|:------:|:------:|
+|   rumor   | 92.16  |  7.11  |
+|    has    | 37.04  |  3.76  |
+|    up     | 27.92  |  1.92  |
+|  should   | 27.41  |  3.87  |
+|  rolling  | 25.68  |  5.26  |
+|    he     | 24.86  |  4.57  |
+| whenever  | 24.17  |  5.17  |
+|    and    | 23.03  |  0.88  |
+|    met    | 22.66  |  5.08  |
+|   words   | 21.15  |  4.98  |
+|    ay     | 19.64  |  4.87  |
+|  forgive  | 19.64  |  4.87  |
+|    as     | 19.58  |  2.82  |
+|    you    | 18.80  |  0.53  |
+|   take    | 18.23  |  2.55  |
+|    had    | 18.18  |  1.92  |
+|   head    | 18.13  |  4.76  |
+|  enough   | 17.83  |  4.17  |
+|  nothing  | 17.17  |  2.70  |
+|   wish    | 17.17  |  2.70  |
+
 **Table 6:** A keyness comparison between Adele’s first two albums (target corpus)
 and last two albums (reference corpus) for love and you
-</caption>
-<thead>
-<tr>
-<th style="text-align:left;">
-Token
-</th>
-<th style="text-align:right;">
-LL
-</th>
-<th style="text-align:right;">
-LR
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-you
-</td>
-<td style="text-align:right;">
-18.80
-</td>
-<td style="text-align:right;">
-0.53
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-love
-</td>
-<td style="text-align:right;">
-1.34
-</td>
-<td style="text-align:right;">
-0.27
-</td>
-</tr>
-</tbody>
-</table>
+
+| **Token** | **LL** | **LR** |
+|:---------:|:------:|:------:|
+|    you    | 18.80  |  0.53  |
+|   love    |  1.34  |  0.27  |
 
 </div>
     
