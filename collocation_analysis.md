@@ -44,7 +44,7 @@ each of her albums, with 11 to 12 songs in each album.
 
 <div align="center">
     
-Table 1: Corpus Composition of Adele’s Four Studio Albums
+**Table 1:** Corpus Composition of Adele’s Four Studio Albums
 
 | Album | Texts | Tokens |
 |:-----:|:-----:|:------:|
@@ -120,7 +120,7 @@ in Adele’s corpus of lyrics (AF = 157, RF = 0.011 per word).
 
 <div align="center">
 
-Table 2: Absolute and relative frequency of top 20 most frequent words in Adele’s
+**Table 2:** Absolute and relative frequency of top 20 most frequent words in Adele’s
 lyric corpus
 
 | Token  | Frequency | Relative Frequency |
@@ -169,7 +169,7 @@ highest Juilland’s D value and the lowest DP value.
 
 <div align="center">
 
-Table 3: Dispersion Measures for i, you and love
+**Table 3:** Dispersion Measures for i, you and love
 
 | Token |  AF | Per_10.4 | Carrolls_D2 | Rosengrens_S |  Lynes_D3 |        DC | Juillands_D |        DP |   DP_norm |
 |:-----:|:---:|:--------:|:-----------:|:------------:|:---------:|:---------:|:-----------:|:---------:|:---------:|
@@ -244,7 +244,7 @@ corpus (last two albums).
 
 <table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
 <caption>
-A keyness comparison between Adele’s last two albums (target corpus) and
+**Table 4:** A keyness comparison between Adele’s last two albums (target corpus) and
 first two albums (reference corpus)
 </caption>
 <thead>
@@ -485,7 +485,7 @@ highs
 </table>
 <table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
 <caption>
-A keyness comparison between Adele’s first two albums (target corpus)
+**Table 5:** A keyness comparison between Adele’s first two albums (target corpus)
 and last two albums (reference corpus)
 </caption>
 <thead>
@@ -726,7 +726,7 @@ wish
 </table>
 <table class="table lightable-classic" style="margin-left: auto; margin-right: auto; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; margin-left: auto; margin-right: auto;">
 <caption>
-A keyness comparison between Adele’s first two albums (target corpus)
+**Table 6:** A keyness comparison between Adele’s first two albums (target corpus)
 and last two albums (reference corpus) for love and you
 </caption>
 <thead>
@@ -855,7 +855,7 @@ discovered? - openmic. Open Mic UK. Retrieved October 2, 2022, from
 
 ## 7. Appendix
 
-Below are R code that I used for this report.
+Below are R code used for this report.
 
     library(readtext)
     library(quanteda)
