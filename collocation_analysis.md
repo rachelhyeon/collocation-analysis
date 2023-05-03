@@ -47,13 +47,13 @@ each of her albums, with 11 to 12 songs in each album.
 Table 1: Corpus Composition of Adele’s Four Studio Albums
 
 | Album | Texts | Tokens |
-|:------|------:|-------:|
+|:-----:|:-----:|:------:|
 | 1     |    12 |   3144 |
 | 2     |    11 |   3631 |
 | 3     |    11 |   3640 |
 | 4     |    12 |   4005 |
 | Total |    46 |  14420 |
-    
+
 </div>
 
 The data was gathered by manually copying Adele’s lyrics found on Google
