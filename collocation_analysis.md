@@ -1,6 +1,7 @@
 Collocation analysis of Adele’s songs
 ================
 Myung Kyung (Rachel) Hyeon
+
 2022-09-24
 
 ## 1. Introduction
