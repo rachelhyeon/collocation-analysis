@@ -64,21 +64,21 @@ albums.
 
 ## 3. Methods
 
-First, I calculated absolute and relative frequency of top 20 most
-frequently occurring tokens in Adele’s lyric corpus. After deciding
-which tokens to examine further, which were *i*, *you*, and *love*, I
+First, absolute and relative frequency of top 20 most frequently occurring
+tokens in Adele’s lyric corpus were calculated. After deciding
+which tokens to examine further, which were *i*, *you*, and *love*, we
 calculated common dispersion measures for the three tokens to test
 whether they are dispersed evenly throughout her albums.
 
-Next, I uncovered the thematic similarities and differences between
-Adele’s two subcorpora by comparing the collocates of *love* and *you*
+Next, thematic similarities and differences between Adele’s two subcorpora
+were uncovered by comparing the collocates of *love* and *you*
 for Adele’s first set of albums, albums *19* and *21*, and the second
 set of albums, albums *25* and *30*. Collocation network allows us to
 visually view the relationship between the two subcorpora by showing us
 shared and distinct collocates between the subcorpora, the frequency of
 the collocate using the shade of the color of the collocate, and the
 strength of the association between the collocates and the initial node.
-I chose to use a collocation network filtered by MI1 values greater than
+A collocation network was created by filtering MI1 values greater than
 4, collocate frequency greater than or equal to 4, and span greater than
 or equal to 5 in order to discover which collocates appeared exclusively
 near the node. The values for MI1, collocate frequency, and span were
@@ -87,11 +87,11 @@ that produced appropriate sized collocation network. The token *love* is
 appropriate as nodes for the two subcorpora as it was the most frequent
 noun and verb in the corpus of her lyrics, so the similarities or
 differences between how Adele expresses the concept of *love* in her two
-sets of albums can be discovered. I chose to analyze *you* over *i* to
+sets of albums can be discovered. We chose to analyze *you* over *i* to
 create collocation network, which was the most frequent word and
-pronoun, because I wanted to examine how the feelings she had for her
+pronoun, because we wanted to examine how the feelings she had for her
 subject of desire changed or remained the same over time. Another reason
-why I avoided analyzing *i* was that I expected most of the closest
+why we avoided analyzing *i* was that it was expected that most of the closest
 collocates of *i* to be linking verbs like *was* and *am*. Also, *i*
 would appear most frequently in the beginning of the sentence, which
 would make the collocates to the left of *i* appear in the previous
@@ -99,19 +99,19 @@ sentence, which could be inaccurate because the previous sentence might
 be expressing a different sentiment than the current sentence.
 
 Log-likelihood test and effect sizes using log ratio were reported
-between the two corpora. I uncovered the differences between the two
-subcorpora using log-likelihood and reported whether the differences
-between the two subcorpora are statistically significant. In particular,
-I looked at the log-likelihood statistic for *love* and *you* and
+between the two corpora. The differences between the two
+subcorpora were uncovered using log-likelihood and it was reported whether the 
+differences between the two subcorpora are statistically significant. In particular,
+we looked at the log-likelihood statistic for *love* and *you* and
 determined whether the LL statistic is greater than 3.84, which is the
-cut-off point for statistical significance (p \< 0.05). I reported
-effect sizes using log ratio to see what the magnitude of the given
+cut-off point for statistical significance (p \< 0.05). The effect sizes
+were reported using log ratio to see what the magnitude of the given
 difference is.
 
 ## 4. Results
 
-I first create frequency table (Table 2) including all of Adele’s four
-albums in order to determine which tokens are most frequently used in
+Frequency table (Table 2) including all of Adele’s four albums was created
+in order to determine which tokens are most frequently used in
 her lyrics. The pronoun *i* is the most frequent item in Adele’s corpus
 of lyrics (AF = 749, RF = 0.052 per word). The pronoun *you* is the
 second frequent item in Adele’s corpus of lyrics (AF = 569, RF = 0.039
@@ -124,7 +124,7 @@ Table 2: Absolute and relative frequency of top 20 most frequent words in Adele�
 lyric corpus
 
 | Token  | Frequency | Relative Frequency |
-|:-------|----------:|-------------------:|
+|:------:|:---------:|:------------------:|
 | i      |       749 |              0.052 |
 | you    |       569 |              0.039 |
 | the    |       427 |              0.030 |
@@ -172,7 +172,7 @@ highest Juilland’s D value and the lowest DP value.
 Table 3: Dispersion Measures for i, you and love
 
 | Token |  AF | Per_10.4 | Carrolls_D2 | Rosengrens_S |  Lynes_D3 |        DC | Juillands_D |        DP |   DP_norm |
-|:------|----:|---------:|------------:|-------------:|----------:|----------:|------------:|----------:|----------:|
+|:-----:|:---:|:--------:|:-----------:|:------------:|:---------:|:---------:|:-----------:|:---------:|:---------:|
 | i     | 749 | 519.4175 |   0.9540649 |    0.9195357 | 0.9137127 | 0.9087672 |   0.9212488 | 0.2225919 | 0.2243971 |
 | you   | 569 | 394.5908 |   0.9318796 |    0.8564299 | 0.8855290 | 0.8432097 |   0.8919461 | 0.2702648 | 0.2724565 |
 | love  | 157 | 108.8766 |   0.8314623 |    0.6044490 | 0.6952716 | 0.5855981 |   0.7982397 | 0.4489744 | 0.4526154 |
