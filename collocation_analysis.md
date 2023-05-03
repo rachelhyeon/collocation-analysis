@@ -18,11 +18,11 @@ collocates of *love* and *you* for Adele’s first set of albums, albums
 *19* and *21*, and the second set of albums, albums *25* and *30*, and
 conducting log-likelihood test between the two subcorpora and reporting
 effect sizes using log ratio. The reason behind choosing *love* was that
-it was the most frequent noun and verb in the corpus of her lyrics, and
-the topic of love tends to be a popular theme in most pop songs, so we
+it was the most frequent noun and verb in the corpus of her lyrics. 
+Also, the topic of love tends to be a popular theme in most pop songs, so we
 can see the similarities or differences between how Adele expresses the
-concept of *love*. The reason behind choosing *you* over *i*, which was
-the most frequent word and pronoun, was that I wanted to examine how the
+concept of *love* in her albums. The reason behind choosing *you* over *i*, which was
+the most frequent word and pronoun, was that we wanted to examine how the
 feelings she had for her subject of desire changed or remained the same
 over time. Log-likelihood (LL) will uncover the differences between the
 two subcorpora and report whether the differences between the two
