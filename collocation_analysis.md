@@ -389,7 +389,7 @@ discovered? - openmic. Open Mic UK. Retrieved October 2, 2022, from
 
 ## 7. Appendix
 
-Below are R code used for this report.
+Below is the R code used for analysis and data visualization.
 
     library(readtext)
     library(quanteda)
