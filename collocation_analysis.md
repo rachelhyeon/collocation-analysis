@@ -2,7 +2,7 @@ Collocation analysis of Adele’s songs
 ================
 Myung Kyung (Rachel) Hyeon
 
-2022-09-24
+September 24, 2023
 
 ## 1. Introduction
 
@@ -342,34 +342,32 @@ statistically significant, with *you* occurring about 1 to 2 times more
 frequently in the first two albums than the last two albums. Possible
 explanation for this is that the theme for *25* is Adele’s personal
 reflection when she was 25 years old, where she experienced “nostalgia”
-and “melancholia” about the passage of time and her fourth and latest
+and “melancholia” about the passage of time. Her fourth and latest
 studio album, *30*, explores the theme of personal reflection, with
 focusing on the feelings of “heartache, hope, and acceptance (Hiatt,
 2015; Adele Wiki, 2022). This is in contrast to Adele’s first studio
 album *19* which received praise from the critics for its exploration of
 heartbreak and tragedy, and her subsequent album *21* which contained
-mega-hits including”Someone Like You”, “Rolling in the Deep”, and “Set
+mega-hits including ”Someone Like You”, “Rolling in the Deep”, and “Set
 Fire to the Rain”, where she explore themes of heartbreak and depression
 resulting from her breakups (Morley, 2021; Adele Wiki, 2022). Therefore,
-she transitioned from discussing her heartbreak and depression resulting
-from her breakup in her earlier albums, which contains more frequent
-references to her lover by using *you*, to exploring herself and her
+we can see her transition from discussing her heartbreak and depression resulting
+from her breakup in her earlier albums to exploring herself and her
 personal feelings in her later albums. Since the difference in *love*
 was not statistically significant, this suggests that *love* might be a
 common theme in all four albums.
 
-Strength of my analysis is that I was able to use all of the songs in
+Strength of this analysis is that we were able to use all of the songs in
 Adele’s studio albums, which means that our results are representative
 of Adele’s entire musical career and her developments. Some limitations
-of my analysis is that I did not tag part-of-speech for *love*, so we
-did not differentiate between *love* being used as a noun or a verb.
-Another limitation of my analysis is that I did not calculate dispersion
+of this analysis is that part-of-speech tagging for *love* was not performed,
+so there was no differentiation between *love* being used as a noun or a verb.
+Another limitation of the analysis is that we did not calculate dispersion
 and frequency measures individually for each of her albums, which would
 have given us information about whether the token of interest appeared
-in every album of Adele, and how frequent and dispersed the token was in
-each of the album of Adele. Other limitation is that I did not extract
-sample sentences where *love* and *you* appeared, which would have given
-information on what context the words were used in Adele’s lyrics.
+in every album of Adele and how frequent and dispersed the token was in
+each of her albums. We also did not extract sample sentences where *love* and *you* appeared,
+which would have given information on what context the words were used in Adele’s lyrics.
 
 In conclusion, there seems to be a change in the theme in Adele’s songs,
 with her first two albums containing more references to her lover and
