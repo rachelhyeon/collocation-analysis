@@ -31,7 +31,7 @@ subcorpora are statistically significant.
 
 ## 2. Data
 
-We created corpus including all of Adele’s lyrics in her four studio
+We created a corpus including all of Adele’s lyrics in her four studio
 albums, *19*, *21*, *25*, and *30*. We extracted two subcorpora, the
 first subcorpus including albums *19* and *21*, and the second including
 albums *25* and *30*, to investigate the thematic similarities and
