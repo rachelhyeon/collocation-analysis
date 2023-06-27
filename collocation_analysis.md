@@ -349,7 +349,7 @@ focusing on the feelings of “heartache, hope, and acceptance (Hiatt,
 album *19* which received praise from the critics for its exploration of
 heartbreak and tragedy, and her subsequent album *21* which contained
 mega-hits including ”Someone Like You”, “Rolling in the Deep”, and “Set
-Fire to the Rain”, where she explore themes of heartbreak and depression
+Fire to the Rain”, where she explores themes of heartbreak and depression
 resulting from her breakups (Morley, 2021; Adele Wiki, 2022). Therefore,
 we can see her transition from discussing her heartbreak and depression resulting
 from her breakup in her earlier albums to exploring herself and her
